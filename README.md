@@ -5,7 +5,7 @@ Languages: PHP, MYSQL
 
 1. Includes the mysql script to create a schema named "recipe_book" and a table called "recipe" (foldername: mysql_script).
 
-2. Contains models and data acces object 
+2. Contains the model and data acces object for a Recipe .
 
 3. contains an example ini file and recommendation on file location for security reasons(foldername: config)
 
